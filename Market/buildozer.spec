@@ -5,6 +5,7 @@ package.domain = org.bakkal
 
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
+source.exclude_dirs = Market,.github,bin
 
 version = 1.0
 
